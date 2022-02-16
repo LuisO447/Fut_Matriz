@@ -1,0 +1,17 @@
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\bin\Debug\net6.0\Proyecto 1 matrices.exe
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\bin\Debug\net6.0\Proyecto 1 matrices.deps.json
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\bin\Debug\net6.0\Proyecto 1 matrices.runtimeconfig.json
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\bin\Debug\net6.0\Proyecto 1 matrices.dll
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\bin\Debug\net6.0\ref\Proyecto 1 matrices.dll
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\bin\Debug\net6.0\Proyecto 1 matrices.pdb
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.csproj.AssemblyReference.cache
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.AssemblyInfoInputs.cache
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.AssemblyInfo.cs
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.csproj.CoreCompileInputs.cache
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.dll
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\ref\Proyecto 1 matrices.dll
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.pdb
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.genruntimeconfig.cache
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario 2021\Documents\proyectos Visual Studio 2022\Proyectos de c sharp\Proyecto 1 matrices\Proyecto 1 matrices\obj\Debug\net6.0\Proyecto 1 matrices.csproj.CopyComplete
